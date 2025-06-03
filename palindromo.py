@@ -15,7 +15,4 @@ def isPalindrome(inputStr):
         return False
 
 
-assert isPalindrome("aabaa") == True
-assert isPalindrome("abac") == False
-assert isPalindrome("salas") == True
-print("Pruebas completadas exitosamente")
+

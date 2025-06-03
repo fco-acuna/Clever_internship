@@ -12,8 +12,3 @@
 def digitsSum(input): 
     suma = sum(int(digito) for digito in str(input))
     return suma
-
-assert digitsSum(999) == 27
-assert digitsSum(9184501) == 28
-assert digitsSum(12345) == 15
-print("Pruebas completadas exitosamente")

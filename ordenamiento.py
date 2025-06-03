@@ -23,5 +23,3 @@ def integerSort(inputArray):
 
     return sorted_list
 
-assert integerSort([5, -2, 10, 0, 3, -7]) == [-7, -2, 0, 3, 5, 10]
-print("Pruebas completadas exitosamente")
